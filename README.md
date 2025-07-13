@@ -71,7 +71,7 @@ The data has been cleaned and used for descriptive and visual analysis in the no
    ```bash
    git clone https://github.com/YOUR_USERNAME/recipe-site-traffic.git
    cd recipe-site-traffic
-````
+   ```
 
 2. **Open the notebook**:
    You can open `main.ipynb` using:
